@@ -435,8 +435,8 @@ team-icons-list-item {
 }
 .footer-container {
   display: flex;
-  align-items: center;
-  justify-content: baseline;
+  align-items: baseline;
+  justify-content: center;
 }
 
 .footer-logo-text-container {
