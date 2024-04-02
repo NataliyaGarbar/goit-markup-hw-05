@@ -658,8 +658,8 @@ team-icons-list-item {
   margin-bottom: 8px;
 }
 
-.modal-form-item:last-child {
-  margin-botton: 16px;
+.modal-form-item-last {
+  margin-bottom: 16px;
 }
 
 .modal-input {
@@ -722,7 +722,7 @@ modal-input:hover {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: rgba(19, 21, 63, 0.4);
+  color: rgba(46, 47, 66, 0.4);
   background-color: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   outline: transparent;
