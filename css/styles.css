@@ -436,7 +436,6 @@ team-icons-list-item {
 .footer-container {
   display: flex;
   align-items: baseline;
-  justify-content: center;
 }
 
 .footer-logo-text-container {
@@ -468,7 +467,7 @@ team-icons-list-item {
 }
 
 .footer-social-media-container {
-  margin-right: 120px;
+  margin: 80px;
 }
 
 .footer-social-media-text {
@@ -514,7 +513,6 @@ team-icons-list-item {
 }
 
 .footer-form-container {
-  margin-right: 80px;
 }
 
 .footer-subscribe-text {
